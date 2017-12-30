@@ -1,0 +1,11 @@
+[package]
+name = "writium-auth"
+version = "0.1.0"
+authors = ["PENGUINLIONG <admin@penguinliong.moe>"]
+keywords = ["writium"]
+license = "MIT"
+repository = "https://github.com/PENGUINLIONG/writium-auth"
+description = "Handy authorization for Writium APIs."
+
+[dependencies]
+writium = "0.1"
